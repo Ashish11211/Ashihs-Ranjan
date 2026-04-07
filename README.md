@@ -1,7 +1,5 @@
- 👋 Hi, I'm Ashish ranjan
- 💼 Data Analyst | MIS Reporting | Excel | Power BI | Looker Studio
  <p align="center">   <img src="Banner.1.png" width="1000" style="border-radius:100%" /> </p>
-
+                           
 I am a data-driven professional with experience in creating MIS reports, dashboards, and performing payment reconciliation. I convert raw data into meaningful insights to support business decisions.
 
 ---
