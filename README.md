@@ -27,12 +27,12 @@ I am a data-driven professional with experience in creating MIS reports, dashboa
 
 🔹 Footfall Analysis
 - Built report using Google Sheets & Looker Studio  
-- Analyzed store performance & conversion rate  
+- Analyzed store performance & conversion rate
 
 ---
-
- 📸 Dashboard Preview
-<img width="1064" height="914" alt="image" src="https://github.com/user-attachments/assets/7fe6a813-0d8d-473e-ae22-d581a8fa02bd" />
+                                                   
+- 📸 Dashboard Preview  🛠 “Based on real business scenarios”
+ <img width="534" height="857" alt="image" src="https://github.com/user-attachments/assets/3698e971-4ee8-4fdf-8805-329a8358fbe2" />
 <img width="999" height="712" alt="image" src="https://github.com/user-attachments/assets/697f8cbc-d4c5-4585-a27a-6c6b3741ba33" />
 <img width="745" height="826" alt="image" src="https://github.com/user-attachments/assets/dd67622f-0085-4a62-bfe8-fd21e70e433d" />
 <img width="747" height="820" alt="image" src="https://github.com/user-attachments/assets/e47659c9-aaee-4e16-9b60-1b0f5d566c4a" />
