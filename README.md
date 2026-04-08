@@ -50,7 +50,8 @@ This dashboard tracks sales performance, revenue trends, and KPIs.
 
 ### 📸 Preview
 <p align="center">
-  <img width="1085" height="893" alt="image" src="https://github.com/user-attachments/assets/38aaa573-524c-4a5f-9896-6f42d5239d31" />
+  <img width="932" height="903" alt="image" src="https://github.com/user-attachments/assets/62fd8791-5148-4d00-a5c8-8f857c360667" />
+
 
 
 </p>
