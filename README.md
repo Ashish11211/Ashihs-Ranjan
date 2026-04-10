@@ -112,7 +112,7 @@ This dashboard tracks employee leave data and attendance patterns.
 ## 📫 Contact Me
 - 👤 Name: Ashish Ranjan  
 - 📧 Email: ashishranjan11211@gmail.com  
-- 🔗 LinkedIn: linkedin.com/in/ashishranjanji09
+- 🔗 LinkedIn: https://linkedin.com/in/ashishranjanji09
 - 🌐 Website: https://ranjanstudy.blogspot.com
 ---
 
